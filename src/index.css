@@ -7,3 +7,9 @@
   font-family: "Poppins", serif;
 }
 
+a.active{
+  color:  #403F3F;
+  font-weight: 600;
+  background-color: #E7E7E7;
+}
+
